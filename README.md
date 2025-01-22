@@ -1,4 +1,4 @@
-FlashCardsSebasxxiss is a simple react app inspired by roadmap.sh
+FlashCardsSebasxxiss is a simple react app inspired by [roadmap.sh](https://roadmap.sh/projects/flash-cards)
 
 Installation
 
